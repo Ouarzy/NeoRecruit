@@ -110,7 +110,7 @@ h1 {
 }
 
 #about {
-	background:#fff;
+	background:#242529;
 }
 
 #team {
@@ -123,8 +123,8 @@ h1 {
 }
 #whoAreWe {
 	background:#414040;
+    color: #fff;
 }
-
 
 /* Navbar Styles  */
 
